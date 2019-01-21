@@ -16,8 +16,6 @@ Uses the ap3_send_push_data filter from AppPush to encode the custom URL
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. AppPush must be active too
 
-Please visit there to configure the AppPush extension settings.
-
 == Changelog ==
 
 = 1.0.0 =
